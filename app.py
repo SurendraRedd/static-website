@@ -12,7 +12,7 @@ st.write(
 """
 
 st.caption(
-    "[Code for this demo](https://github.com/streamlit/static-file-serving-demo/blob/main/streamlit_app.py)"
+    "[Code for this demo](https://github.com/SurendraRedd/static-website/blob/main/app.py)"
 )
 
 """
