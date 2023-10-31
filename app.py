@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 st.write(
-    f'<span style="font-size: 78px; line-height: 1">🐱</span>',
+    '<span style="font-size: 78px; line-height: 1">🐱</span>',
     unsafe_allow_html=True,
 )
 
